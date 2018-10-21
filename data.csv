@@ -1,0 +1,12 @@
+Satellite,Pixel_size,Frequency,Imaging_time,Length_of_image,Period_of_records
+Sentinel-2a/2b,10,1,1,100,10
+Aeolus,1,6,6,2000,20
+Sentinel-5P,6,8,8,500,50
+Sentinel-3,8,4,6,1266.666667,20
+Proba-V,2,7.5,9.5,1466.666667,40
+CryoSat,5.5,8.6,11.2,1666.666667,46
+SMOS,6,9.7,12.9,1866.666667,52
+GOCE,6.5,10.8,14.6,2066.666667,58
+Envisat,7,11.9,16.3,2266.666667,64
+Proba-1,8,13,18,2466.666667,70
+ERS-2,8,8140,19.7,2666.666667,76
